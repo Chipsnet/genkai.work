@@ -59,3 +59,8 @@
 本ポリシー内に改定履歴は残しませんが、Githubで更新しているので[こちら](https://github.com/Chipsnet/projectgenkai-web/commits/master/doc/COPYRIGHT_POLICY_ja.md)からすべての変更履歴を見ることができます。
 
 また、改定の際、参加者様に関係がある改定を行った場合はDiscordやTwitterで通知致します。
+
+----
+
+改定を提案する場合は、issueを開いてください。   
+issueの開き方がわからない場合は[こちら](https://forms.gle/oq32ftHWYsapNHgg7)から提案することもできます。
