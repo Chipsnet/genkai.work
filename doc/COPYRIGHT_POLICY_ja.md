@@ -1,4 +1,4 @@
-[English](#)
+[English](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/COPYRIGHT_POLICY_en.md)
 
 # 限界大会 著作権ポリシー
 
