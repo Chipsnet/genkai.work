@@ -67,7 +67,7 @@
 Twitterアカウントがなくてもご参加いただけます。     
 参加方法は以下の通りです。
 
-1. [通常と同じように](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MODELING_ja.md#3-%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95)お題を使用してモデリングする。
+1. [通常と同じように](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MODELING_ja.md#3-%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95)お題を使用してデザインする。
 1. 完成した作品をMastodonやMisskeyなどのプラットフォームに投稿する
     - 投稿の際ハッシュタグまたはタグ機能、キーワード機能で`#限界デザイン大会`をつけてください。
 1. 投稿した作品のURLを限界大会Discordサーバーの`#作品紹介`に貼り付けてください。
