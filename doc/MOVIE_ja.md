@@ -1,4 +1,4 @@
-[English](https://github.com/Chipsnet/projectgenkai-web/blob/master/rules/MOVIE_en.md)
+[English](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MOVIE_en.md)
 
 # 限界映像大会 ルール
 
