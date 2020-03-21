@@ -73,7 +73,7 @@
 ### Q4. Twitterアカウントを持ってないんだけど？
 
 Twitterアカウントがなくてもご参加いただけます。     
-参加方法は以下のとおりです。
+参加方法は以下の通りです。
 
 1. [通常と同じように](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MOVIE_ja.md#3-%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95)お題楽曲を使用して制作する。
 1. 完成した作品を、YouTubeやMastodon、ニコニコ動画などのプラットフォームに投稿する
