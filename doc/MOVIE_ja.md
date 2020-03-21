@@ -33,7 +33,7 @@
 1. 制作した映像を、お題発表と同時に投稿されたライセンスとハッシュタグ`#限界映像大会`を記載してツイート
     - どのように呟けばいいかわからない場合は`#限界映像大会`を参考にしてください。
     - 遅刻の場合は遅刻という単語を必ず含めて投稿してください。
-    - Twitterアカウントをお持ちでいない場合はQ&Aを御覧ください。
+    - [Twitterアカウントをお持ちでいない場合](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MOVIE_ja.md#q4-twitter%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9)はQ&Aを御覧ください。
 1. ツイートのURLを`#作品紹介`チャンネルに貼り付け
 
 [![Image from Gyazo](https://i.gyazo.com/0e78227975ffb72fe6c619d0e1760c4a.png)](https://gyazo.com/0e78227975ffb72fe6c619d0e1760c4a)
