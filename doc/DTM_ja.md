@@ -33,7 +33,7 @@
     - SoundCloud等を利用する場合は、SoundCloudなどの作品URLをツイートしてください。
     - どのように呟けばいいかわからない場合は`#限界DTM大会`を参考にしてください。
     - 遅刻の場合は遅刻という単語を必ず含めて投稿してください。
-    - [Twitterアカウントをお持ちでいない場合](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MODELING_ja.md#q5-twitter%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9)はQ&Aを御覧ください。
+    - [Twitterアカウントをお持ちでいない場合](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/DTM_ja.md#q2-twitter%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9)はQ&Aを御覧ください。
 1. ツイートのURLを`#作品紹介`チャンネルに貼り付け
 
 ## 4. 禁止事項
@@ -46,7 +46,7 @@
 - お題とかけ離れた楽曲の投稿
 
 その他良識を持って参加をお願いします。     
-リミックスに関してはこちらを御覧ください。
+[リミックスに関してはこちら](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/DTM_ja.md#q3-%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AF%E6%8A%95%E7%A8%BF%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%AE)を御覧ください。
 
 ## 5. Q&A
 
@@ -60,7 +60,7 @@
 Twitterアカウントがなくてもご参加いただけます。     
 参加方法は以下の通りです。
 
-1. [通常と同じように](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MODELING_ja.md#3-%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95)お題を使用して作曲し、プラットフォームに投稿する。
+1. [通常と同じように](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/DTM_ja.md#3-%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95)お題を使用して作曲し、プラットフォームに投稿する。
 1. リンクをMastodonやMisskeyなどのプラットフォームに投稿する
     - 投稿の際ハッシュタグまたはタグ機能、キーワード機能で`#限界DTM大会`をつけてください。
 1. 投稿した作品のURLを限界大会Discordサーバーの`#作品紹介`に貼り付けてください。
