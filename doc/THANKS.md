@@ -2,6 +2,8 @@
 
 運営やシステムに貢献した人を掲載しています。
 
+- 翻訳
+    - ハクアを博愛する人 https://twitter.com/hakua_loveEQ
 
 
 ## Donators
