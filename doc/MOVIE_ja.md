@@ -33,7 +33,7 @@
 1. 制作した映像を、お題発表と同時に投稿されたライセンスとハッシュタグ`#限界映像大会`を記載してツイート
     - どのように呟けばいいかわからない場合は`#限界映像大会`を参考にしてください。
     - 遅刻の場合は遅刻という単語を必ず含めて投稿してください。
-    - [Twitterアカウントをお持ちでいない場合](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MOVIE_ja.md#q4-twitter%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9)はQ&Aを御覧ください。
+    - [Twitterアカウントをお持ちでいない場合](#q4-Twitterアカウントを持ってないんだけど)はQ&Aを御覧ください。
 1. ツイートのURLを`#作品紹介`チャンネルに貼り付け
 
 [![Image from Gyazo](https://i.gyazo.com/0e78227975ffb72fe6c619d0e1760c4a.png)](https://gyazo.com/0e78227975ffb72fe6c619d0e1760c4a)
@@ -77,14 +77,14 @@
 Twitterアカウントがなくてもご参加いただけます。     
 参加方法は以下の通りです。
 
-1. [通常と同じように](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MOVIE_ja.md#3-%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95)お題楽曲を使用して制作する。
+1. [通常と同じように](#3-参加方法)お題楽曲を使用して制作する。
 1. 完成した作品を、YouTubeやMastodon、ニコニコ動画などのプラットフォームに投稿する
     - その際、概要欄やトゥート、投稿内に必ずライセンスと`#限界映像大会`を含めてください。
 1. 投稿した作品のURLを限界大会Discordサーバーの`#作品紹介`に貼り付けてください。
 
 ### Q5. Twitterに投稿した動画を他のサイトにも投稿したい
 
-[Q4](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MOVIE_ja.md#q4-twitter%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9)と同じようにサイトに投稿してください。       
+[Q4](#q4-Twitterアカウントを持ってないんだけど)と同じようにサイトに投稿してください。       
 なお、Discordサーバーへの貼り付けはTwitterのURLのみで大丈夫です。
 
 ### Q6. 自分で作成したイラストや素材を使って良い？
