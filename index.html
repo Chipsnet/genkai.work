@@ -26,114 +26,145 @@
         <meta property="og:description" content="クリエイター向け創作企画限界大会の公式サイトです。" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@genkai_eizo" /> 
+
+        <!-- Adobe fonts -->
+        <script>
+            (function(d) {
+              var config = {
+                kitId: 'pik3yoh',
+                scriptTimeout: 3000,
+                async: true
+              },
+              h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+            })(document);
+        </script>
+
+        <!-- style -->
+        <style>
+            body {
+                font-family: a-otf-midashi-go-mb31-pr6n,sans-serif;
+                font-weight: 600;
+                font-style: normal;
+            }
+            .page-top {
+                padding: 100px 0;
+                background-color: #232B59;
+                color: white;
+            }
+            .body h1 {
+                font-size: 1.7em;
+            }
+            @media screen and (min-width: 1024px) {
+                .body {
+                    font-size: 1.3em;
+                }
+            }
+            .button {
+                display: inline-block;
+                padding: 7px 30px;
+                border-radius: 25px;
+                text-decoration: none !important;
+                background: #7378D9;
+            }
+            .button-page {
+                display: inline-block;
+                padding: 7px 30px;
+                border-radius: 25px;
+                text-decoration: none !important;
+                background: #232B59;
+            }
+            .about-sec {
+                padding-top: 100px;
+                padding-bottom: 50px;
+            }
+            .body-sec {
+                padding-top: 50px;
+                padding-bottom: 50px;
+            }
+            .copyright {
+                padding: 20px 0 30px 0;
+            }
+            .sec {
+                padding: 100px 0;
+            }
+            .sec-container {
+                margin-top: 100px;
+            }
+            .row-container {
+                margin-top: 50px;
+            }
+            @media screen and (max-width: 480px) {
+                .page-top {
+                    padding: 75px 0;
+                    background-color: #232B59;
+                    color: white;
+                }
+                .about-sec {
+                    padding-top: 75px;
+                    padding-bottom: 30px;
+                }
+                .body-sec {
+                    padding-top: 30px;
+                    padding-bottom: 30px;
+                }
+                .copyright {
+                    font-size: 0.8em;
+                }
+            }
+            hr {
+                margin-top: 80px;
+            }
+            .back-blue {
+                background-color: #F2F2F2;
+            }
+        </style>
     </head>
     <body>
         <section id="header"></section>
-        <div class="jumbotron jumbotron-fluid">
-            <div class="container text-white text-center">
-                <h1 class="mobile">思いっきり創作しよう</h1>
-                <p class="lead">限界大会は、クリエイターの創作の場を提供する企画です</p>
+        <div id="body" class="body">
+            <section class="page-top">
+                <div class="container">
+                    <h1>思いっきり創作しよう。</h1>
+                    <p>自主制作は大変だ。お題を決めたり、許可を取ったり、それに見てもらわなければいけない。<br>
+                    限界大会で、もっと手軽に創作しよう。</p>
+                    <a href="https://discordapp.com/invite/6tAqA7s" target="_brank" class="button" style="color: white;">Discordサーバーに参加する</a>
+                </div>
+            </section>
+            <div class="sec">
+                <section id="about" class="container">
+                    <h1 class="mb-5">限界大会とは</h1>
+                    <p>クリエイターがもっと自由に、手軽に創作をすることを目的とした創作企画です。<br>
+                    毎週投稿されるお題に沿って作品を制作、共有します。</p>
+                </section>
+                <section id="copyright" class="container sec-container">
+                    <h1 class="mb-5">万全な著作権対策で安心な創作を</h1>
+                    <p>限界大会では、著作権を遵守しています。<br>お題に使われる音楽やその他大会に関わるものまで、著作権に留意して運営されています。</p>
+                    <p>また、どのように著作権を守るかに関しては、著作権ポリシーに掲載しています。</p>
+                    <a href="https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/COPYRIGHT_POLICY_ja.md" target="_brank" class="button-page mt-4" style="color: white;">限界大会著作権ポリシー</a>
+                </section>
             </div>
-        </div>
-        <section id="main">
-            <div class="container">
-                <!--
-                <div class="alert alert-primary" role="alert">
-                    <strong>お知らせ:</strong>
-                    現在、すべての大会を休止しています。
-                    <a href="https://twitter.com/genkai_eizo/status/1193162066204344320" target="_brank">詳細</a>
-                </div>
-                -->
-                <h1 class="mb-4 mt-5">限界大会とは？</h1>
-                <div class="large">
-                    <p>毎週投稿されるお題に沿って作品を制作する企画です。</p>
-                    <p>誰でも参加でき、作品が途中までしか完成していなくても投稿できる気軽さが特徴です。</p>
-                    <p>また、大会のくせに順位が無いので、他人の評価を気にせず好きに創作することができます！</p>
-                </div>
+            <div class="back-blue sec">
+                <section id="copyright" class="container">
+                    <h1 class="mb-5">寄付のお願い</h1>
+                    <p>限界大会は、現在収益ゼロで運営されています。しかしながら、運営には少なくないお金がかかっています。<br>
+                    どうかこれからの限界大会を支えてください。</p>
+                    <a href="https://minato86.me/donate.html" target="_brank" class="button-page mt-4 mb-5" style="color: white;">寄付ページ</a>
+                    <p>また、現在限界大会に協賛していただけるスポンサーを募集しております。<br>興味がございましたらこちらのフォームよりお問い合わせください。</p>
+                </section>
             </div>
-        </section>
-        <section id="point">
-            <div class="jumbotron jt-1 jumbotron-fluid mt-5">
-                <div class="container text-white">
-                    <h1>特徴</h1>
-                    <h3 class="my-4">権利問題</h3>
-                    <div class="large">
-                        <p>映像大会では、使用楽曲すべての利用許可を運営が取っています。<br>
-                        なので、権利の問題を一切気にせず創作に専念することができます。</p>
-                    </div>
-                    <button type="button" class="btn page-link text-dark d-inline-block my-4" onclick="window.open().location.href='https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/COPYRIGHT_POLICY_ja.md'">限界大会著作権ポリシー</button>
-                    <h3 class="my-4">参加条件</h3>
-                    <div class="large">
-                        <p>限界大会には、基本的に参加条件がありません。<br>
-                        また、参加はDiscordサーバーに入っていただくだけで大丈夫です。<br>
-                        すべての大会に参加する必要もありません。気分で参加していただけます。</p>
-                    </div>
-                    <button type="button" class="btn page-link text-dark d-inline-block mt-4" onclick="window.open().location.href='https://discord.gg/6tAqA7s'">サーバーに参加</button>
-                </div>
-            </div>
-        </section>
-        <section id="date">
-            <div class="container">
-                <h1 class="mb-4 mt-5">開催日</h1>
-                <div class="large">
-                    <p>限界大会は一週間のうちの以下の曜日に開催します。<br>
-                    また、限界写真大会は月曜日にお題発表し、次週月曜日に終了します。</p>
-                </div>
-                <div class="table-responsive my-4">
-                    <table class="table text-nowrap">
-                        <thead>
-                            <tr>
-                                <th>#</th>
-                                <th>日</th>
-                                <th>月</th>
-                                <th>火</th>
-                                <th>水</th>
-                                <th>木</th>
-                                <th>金</th>
-                                <th>土</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th>大会名</th>
-                                <td>なし</td>
-                                <td>写真大会</td>
-                                <td>なし</td>
-                                <td>イラスト大会</td>
-                                <td>なし</td>
-                                <td>限界大会</td>
-                                <td>映像大会</td>
-                            </tr>
-                            <tr>
-                                <th>時間</th>
-                                <td>なし</td>
-                                <td>~翌週月曜</td>
-                                <td>なし</td>
-                                <td>18時~24時</td>
-                                <td>なし</td>
-                                <td>18時~24時</td>
-                                <td>18時~24時</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-                <p class="large">限界大会は、限界モデリング大会・限界DTM大会・限界デザイン大会をローテーションで行います。</p>
-            </div>
-        </section>
-        <section id="join">
-            <div class="jumbotron jt-2 jumbotron-fluid mt-5">
-                <div class="container text-dark">
-                    <h1>大会一覧</h1>
+            <div class="sec">
+                <section id="list" class="container">
+                    <h1>すべての大会</h1>
                     <div class="row">
                         <div class="col-md-6">
-                            <h3 class="my-4">限界映像大会</h3>
+                            <h3 class="mb-4 row-container">限界映像大会</h3>
                             <div class="large">
                                 <p>お題楽曲に沿って映像を制作する大会です。<br>
                                 一番参加者が多く、ほとんどの方が参加します。</p>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <h3 class="my-4">限界モデリング大会</h3>
+                            <h3 class="mb-4 row-container">限界モデリング大会</h3>
                             <div class="large">
                                 <p>実は一番初めに始まった限界大会。<br>
                                 お題に沿ってモデリングをする大会です。</p>
@@ -141,21 +172,21 @@
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <h3 class="my-4">限界DTM大会</h3>
+                            <h3 class="mb-4 row-container">限界DTM大会</h3>
                             <div class="large">
                                 <p>ジャンルや雰囲気、イメージなど様々なお題が出題され、それっぽい音楽を制作する大会です。</p>
                                 <p>最近参加者がすくないので、参加してほしい！！！！</p>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <h3 class="my-4">限界デザイン大会</h3>
+                            <h3 class="mb-4 row-container">限界デザイン大会</h3>
                             <div class="large">
                                 <p>お題に沿ってデザインをする大会です。</p>
                                 <p>作字でも、普通のデザインでも大歓迎！！！</p>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <h3 class="my-4">限界写真大会</h3>
+                            <h3 class="mb-4 row-container">限界写真大会</h3>
                             <div class="large">
                                 <p>お題通りの写真を撮影する大会です。<br>
                                 お題は撮影できるものだけを使っています<br>
@@ -164,45 +195,22 @@
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <h3 class="my-4">限界イラスト大会</h3>
+                            <h3 class="mb-4 row-container">限界イラスト大会</h3>
                             <div class="large">
                                 <p>お題通りのイラストを描いて投稿する大会です。<br>
                                 人物でも、風景でも投稿できるので、絵の練習にいかがですか？</p>
                             </div>
                         </div>
                     </div>
-                    <button type="button" class="btn page-link text-dark d-inline-block mt-4" onclick="window.open().location.href='https://discord.gg/6tAqA7s'">サーバーに参加</button>
-                </div>
+                </section>
             </div>
-        </section>
-        <section id="date">
-            <div class="container">
-                <h1 class="mb-4 mt-5">寄付</h1>
-                <div class="large">
-                    <p>限界大会は限界大会運営チームによって無償で運営されています。<br>
-                    運営には、お題投稿システムのサーバー費、お題の集計・許可申請などの費用がかかります。<br>
-                    運営を支援したい！と思っていただけたら、ぜひ寄付をお願いします。</p>
-                </div>
-                <button type="button" class="btn page-link text-dark d-inline-block mt-2" onclick="window.open().location.href='https://minato86.me/donate.html'">詳しく見てみる</button>
-                <button type="button" class="btn page-link text-dark d-inline-block mt-2" onclick="window.open().location.href='https://github.com/Chipsnet/projectgenkai-web/blob/master/THANKS.md'">支援者一覧</button>
-            </div>
-        </section>
-        <section id="point">
-            <div class="jumbotron jt-3 jumbotron-fluid mt-5">
-                <div class="container text-white">
-                    <h1>公式アカウント</h1>
-                    <h3 class="my-4">Twitter</h3>
-                    <div class="large">
-                        <p>限界大会のお題や開催情報、その他お知らせなどを配信中！<br>
-                        フォロー推奨！！</p>
-                    </div>
-                    <button type="button" class="btn page-link text-dark d-inline-block mt-2" onclick="window.open().location.href='https://twitter.com/genkai_eizo'">フォローする</button>
-                </div>
-            </div>
-        </section>
+        </div>
+        <hr color="black">
         <footer class="page-footer font-small blue">
-            <div class="footer-copyright text-center py-3">
-                © 2019-2020 TeamOpenWorld
+            <div class="footer-copyright text-center copyright">
+                <p>© 2019-2020 限界大会 Powerd by TeamOpenWorld<br>
+                <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja" target="_brank">CC BY-NC-SA 4.0</a> | 
+                <a href="https://github.com/Chipsnet/projectgenkai-web" target="_brank">View on github</a></p>
             </div>
         </footer>
     </body>
