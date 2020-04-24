@@ -40,9 +40,7 @@
 
 - メール
     - doronomori660@outlook.jp
-    - admin@open-w.net
-    - contact_chips@yahoo.co.jp
-    - genkai@open-w.net
+    - genkai.openworld@outlook.jp
 - Twitterダイレクトメッセージ
     - @minatoo86
     - @genkai_eizo
