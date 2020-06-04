@@ -16,22 +16,36 @@
     </script>
     <script data-ad-client="ca-pub-7860710257272145" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <style>
+        button {
+            background-color: rgba(255,255,255,0);
+            border: none;  /* 枠線を消す */
+            outline: none; /* クリックしたときに表示される枠線を消す */
+            padding: 0.5em 10px; /* 上下の余白、左右の余白 */
+            text-decoration: none; /* デフォルトで入る下線を消す */
+            border-radius: 30px; /* 角を丸くする */
+            color: #fff;
+            border: solid;
+            border-color: #fff;
+            transition-property: opacity;
+            -webkit-transition-property: opacity;
+            transition-duration: .5s;
+            -webkit-transition-duration: .5s;
+        }
+        button:hover {
+            opacity: 0.7;
+        }
         html body main a {
             text-decoration: underline !important;
-            color: #fff;
             opacity:1; 
         }
         html body main a:hover{
-            color: #fff;
             opacity:0.7; 
         }
         .top a{
             text-decoration: underline !important;
-            color: #fff;
             opacity:1; 
         }
         .top a:hover{
-            color: #fff;
             opacity:0.7; 
         }
         .mt-5{
@@ -74,6 +88,24 @@
         }
         .jt-6 {
             background: #FBFFFE;
+        }
+        .jt-1 h1{
+            border-bottom: solid 3px #fff;
+        }
+        .jt-2 h1{
+            border-bottom: solid 3px #64a7ff;
+        }
+        .jt-3 h1{
+            border-bottom: solid 3px #1BE7FF;
+        }
+        .jt-4 h1{
+            border-bottom: solid 3px #FCDC4D;
+        }
+        .jt-5 h1{
+            border-bottom: solid 3px #FCDC4D;
+        }
+        .jt-6 h1{
+            border-bottom: solid 3px #00acee;
         }
         .center {
             text-align: center;
@@ -153,7 +185,7 @@
             <div class="setSenter">
                 <h1 class="mobile">思いっきり創作しよう</h1>
                 <p class="lead">限界大会は、クリエイターの創作の場を提供する企画です</p>
-                <a href="https://discord.gg/6tAqA7s">サーバーに参加する</a>
+                <button type="button" class="" onclick="window.open().location.href='https://discord.gg/6tAqA7s'">サーバーに参加する</button>
             </div>
         </div>
     </div>
