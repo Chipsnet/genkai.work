@@ -2,6 +2,7 @@
 
 運営やシステムに貢献した人を掲載しています。
 
+- 巳波みなと https://minato86.me/
 
 
 ## Donators
@@ -20,9 +21,9 @@
 - ハクアを博愛する人 https://twitter.com/hakua_loveEQ
 - Cube https://twitter.com/cubehakobox
 - Light https://twitter.com/Ne______st
-- 鈴宮 https://twitter.com/suzumiya_work
+- 铃宫 https://twitter.com/szmy_work
 - yaki鳥 https://twitter.com/yakitori_movie
 - かわうそ https://twitter.com/kawausosayohina
 - まんじゅうチャンネル https://twitter.com/manjuuch3
-- ソンス 
+- 三色団子 https://twitter.com/bluecat_exe
 
