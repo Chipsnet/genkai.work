@@ -1,7 +1,11 @@
 <template>
     <div>
-        <div class="container mx-auto py-16">
-            <h1>誰もが創作をできる場所</h1>
+        <div class="h-64">
+            <div class="align-middle h-full inline-block">
+                <div class="container mx-auto">
+                    <h1>aaaaaaaaaaaa</h1>
+                </div>
+            </div>
         </div>
     </div>
 </template>
