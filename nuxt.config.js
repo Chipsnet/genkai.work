@@ -48,12 +48,15 @@ export default {
      */
     buildModules: [
         // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
-        "@nuxtjs/tailwindcss",
     ],
     /*
      ** Nuxt.js modules
      */
-    modules: ["@nuxt/content"],
+    modules: ["@nuxt/content", "nuxt-buefy"],
+
+    buefy: {
+        // buefy settings
+    },
     /*
      ** Build configuration
      ** See https://nuxtjs.org/api/configuration-build/
