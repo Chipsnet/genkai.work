@@ -13,7 +13,8 @@
     "@nuxt/content": "^1.4.1",
     "nuxt": "^2.13.0",
     "nuxt-buefy": "^0.4.3",
-    "nuxt-i18n": "^6.15.1"
+    "nuxt-i18n": "^6.15.1",
+    "nuxt-webfontloader": "^1.1.0"
   },
   "devDependencies": {}
 }

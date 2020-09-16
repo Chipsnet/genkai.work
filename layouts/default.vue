@@ -12,20 +12,26 @@
                 </template>
                 <template slot="start">
                     <b-navbar-item href="#">
-                        限界大会とは
+                        {{ $t("nav_about") }}
                     </b-navbar-item>
                     <b-navbar-item href="#">
-                        著作権ポリシー
+                        {{ $t("nav_copyright") }}
                     </b-navbar-item>
                 </template>
 
                 <template slot="end">
                     <b-navbar-dropdown label="Language">
-                        <b-navbar-item>
-                            <nuxt-link :to="switchLocalePath('ja')">日本語</nuxt-link>
+                        <b-navbar-item
+                            tag="router-link"
+                            :to="switchLocalePath('ja')"
+                        >
+                            日本語
                         </b-navbar-item>
-                        <b-navbar-item href="#">
-                            <nuxt-link :to="switchLocalePath('en')">English</nuxt-link>
+                        <b-navbar-item
+                            tag="router-link"
+                            :to="switchLocalePath('en')"
+                        >
+                            English
                         </b-navbar-item>
                     </b-navbar-dropdown>
                 </template>
@@ -34,3 +40,19 @@
         <Nuxt />
     </div>
 </template>
+
+<script>
+export default {
+    mounted() {
+        Typekit.load({ async: true });
+    },
+};
+</script>
+
+<style>
+div {
+    font-family: a-otf-midashi-go-mb31-pr6n, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+</style>
