@@ -8,9 +8,10 @@
 </template>
 
 <script>
-    export default {
-        async fetch() {
-            this.list = this.$content("blog");
-        },
-    };
+export default {
+    async fetch() {
+        this.list = this.$content("blog");
+        console.log(this.list);
+    },
+};
 </script>
