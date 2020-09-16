@@ -52,10 +52,14 @@ export default {
     /*
      ** Nuxt.js modules
      */
-    modules: ["@nuxt/content", "nuxt-buefy"],
+    modules: ["@nuxt/content", "nuxt-buefy", "nuxt-i18n"],
 
     buefy: {
         // buefy settings
+    },
+
+    i18n: {
+        // i18n settings
     },
     /*
      ** Build configuration
