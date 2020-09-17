@@ -1,3 +1,5 @@
 files:
   - source: /i18n/ja.json
     translation: /i18n/%two_letters_code%.json
+  - source: /content/docs/ja/*.md
+    translation: /content/docs/%two_letters_code%/%original_file_name%
