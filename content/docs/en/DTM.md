@@ -2,11 +2,11 @@
 
 # 限界DTM大会 ルール
 
-## 限界DTM大会とは？
+## What is Genkai DTM Project?
 
-限界DTM大会は、運営から投稿されたお題に沿って作曲するコンポーザー向け企画です。
+Genkai DTM Project is a project to make a composition according to the posted theme.
 
-## 1. 期間
+## 1. Event Date
 
 毎週金曜日 午後6時(18:00) お題発表～午後12時(24:00) 終了      
 なお、モデリング→DTM→デザインの順にローテーションで開催します。
