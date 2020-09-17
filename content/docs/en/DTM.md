@@ -14,7 +14,7 @@ Genkai DTM Project is a project to make a composition according to the posted th
 ## 2. 遅刻
 
 限界DTM大会では、遅刻して作曲を行うことができます。      
-例えば、以下のことが許可されています。
+For example, things written below are allowed
 
 - すでに終了した大会のお題で作曲（過去お題の利用）
 - 午後12時を超えての投稿
@@ -25,7 +25,7 @@ Genkai DTM Project is a project to make a composition according to the posted th
 
 ## 3. 参加方法
 
-参加前にルールとビギナーズガイドを確認してください。
+Before participating, please check the beginner's guide.
 
 1. お題が`#お題発表`に投稿されたら、お題に沿って作曲開始
 1. 制作した作品をハッシュタグ`#限界DTM大会`を記載してツイート
@@ -36,23 +36,23 @@ Genkai DTM Project is a project to make a composition according to the posted th
     - [Twitterアカウントをお持ちでいない場合](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/DTM_ja.md#q2-twitter%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9)はQ&Aを御覧ください。
 1. ツイートのURLを`#作品紹介`チャンネルに貼り付け
 
-## 4. 禁止事項
+## 4. Prohibitions
 
 参加の際は以下の禁止事項に留意してください。
 
-- 既存の曲をそのまま投稿する行為
+- Posting the song which already exists
 - 既存の曲の完全なコピー
-- 許可されていない音源の使用
-- お題とかけ離れた楽曲の投稿
+- Using the sound which is NOT allowed to use
+- Posting the song which is completely unrelated to the theme
 
 その他良識を持って参加をお願いします。     
 [リミックスに関してはこちら](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/DTM_ja.md#q3-%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AF%E6%8A%95%E7%A8%BF%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%AE)を御覧ください。
 
 ## 5. Q&A
 
-### Q1. 使用ソフトは？
+### Q1. Which software can I use?
 
-問いません。      
+It doesn't matter what you use.      
 スマホでもPCでも、お好きなツール・ソフトウェアをご利用ください。
 
 ### Q2. Twitterアカウントを持ってないんだけど？
@@ -65,10 +65,10 @@ Twitterアカウントがなくてもご参加いただけます。
     - 投稿の際ハッシュタグまたはタグ機能、キーワード機能で`#限界DTM大会`をつけてください。
 1. 投稿した作品のURLを限界大会Discordサーバーの`#作品紹介`に貼り付けてください。
 
-### Q3. リミックスは投稿できるの？
+### Q3. Can i post my Remix?
 
-投稿できます。     
-ただしCreativeCommonsライセンス等でリミックスが認められている場合に限ります。
+Yes. You can post your Remix.     
+However, the original song must be allowed to remix.
 
 ----
 
