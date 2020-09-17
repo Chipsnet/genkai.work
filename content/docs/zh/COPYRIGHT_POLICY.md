@@ -1,8 +1,8 @@
-[日本語](../en/COPYRIGHT_POLICY.md)
+[English](../en/COPYRIGHT_POLICY.md)
 
 # 限界大会 著作権ポリシー
 
-## What is this?
+## これはなに
 
 限界大会が安全で、安心してご利用頂けるように運営が定める方針です。      
 どのようにして安全を守っているかをご確認いただけます。
