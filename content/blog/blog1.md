@@ -1,6 +1,0 @@
----
-title: hello
----
-# HELLO
-
-おまえはだれ
