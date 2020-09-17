@@ -7,7 +7,7 @@
 If you are proposing a revision, please open the issue.   
 If you don't know how to open an issue, you can make a suggestion at [here](https://forms.gle/oq32ftHWYsapNHgg7).
 
-## 1. When
+## 1. Event Date
 
 Theme announcement : Every Sunday from 6 p.m. Due: 0 a.m. (both in Japan times)
 
@@ -105,5 +105,5 @@ For collage designs, you can use any free materials.Please be aware of the copyr
 
 ----
 
-改定を提案する場合は、issueを開いてください。   
-issueの開き方がわからない場合は[こちら](https://forms.gle/oq32ftHWYsapNHgg7)から提案することもできます。
+If you want to suggest to us to revise this wiki, please open an issue.   
+If you don't know how to open an issue, [Here](https://forms.gle/oq32ftHWYsapNHgg7) can you suggest to us.
