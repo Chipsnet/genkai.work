@@ -60,9 +60,7 @@
 
 ### Q2. Twitterアカウントを持ってないんだけど？
 
-Twitterアカウントがなくてもご参加いただけます。     
-参加方法は以下の通りです。     
-参加方法は以下の通りです。     
+You can participate without Twitter account.     
 参加方法は以下の通りです。
 
 1. [通常と同じように](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/PHOTO_ja.md#3-%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95)お題を撮影する。
@@ -72,5 +70,5 @@ Twitterアカウントがなくてもご参加いただけます。
 
 ----
 
-If you want to suggest to us to revise this wiki, please open an issue.改定を提案する場合は、issueを開いてください。改定を提案する場合は、issueを開いてください。   
-issueの開き方がわからない場合は[こちら](https://forms.gle/oq32ftHWYsapNHgg7)から提案することもできます。
+If you want to suggest to us to revise this wiki, please open an issue.   
+If you don't know how to open an issue, [Here](https://forms.gle/oq32ftHWYsapNHgg7) can you suggest to us.
