@@ -9,14 +9,15 @@ If you don't know how to open an issue, you can make a suggestion at [here](http
 
 ## 1. Event Date
 
-毎週土曜日 午後6時(18:00) お題発表～午後12時(24:00) 終了
+Theme announcement : Every Sunday from 6 p.m. Due: 0 a.m. (both in Japan times)
 
 ## 2. Late works
 
 限界映像大会では、遅刻して制作を行うことができます。      
-例えば、以下のことが許可されています。
+例えば、以下のことが許可されています。      
+For example, things written below are allowed
 
-- すでに終了した大会のお題で制作（過去お題楽曲の利用）
+- Creating projects that's over due. (Such as making it with past themes)
 - Posting the project after 0 a.m.
 
 You can create projects from past theme and there are no limits for it!
@@ -60,7 +61,7 @@ Please participate with manners and respect to others
 
 ### Q1. Which software can I use?
 
-問いません。      
+It doesn't matter what you use.問いません。      
 また、PC・スマホ・その他端末からでも、映像が投稿できれば参加可能です。
 
 ### Q2. Why cannot I use any sound source other than the one edited by the administrator?
@@ -69,13 +70,15 @@ Due to rights issues, we prohibit it.
 
 ### Q3. Why do you think it is worth thinking about the rights?
 
-守らなければならないものだからです。      
+Because it must be protected.守らなければならないものだからです。      
 限界映像大会は、作曲者様も、参加者様も気持ちがいい大会を目指して運営されています。       
-詳しくは[著作権ポリシー](./COPYRIGHT_POLICY_ja.md)を御覧ください。
+詳しくは[著作権ポリシー](./COPYRIGHT_POLICY_ja.md)を御覧ください。       
+For more information, please visit [the Copyright policy](./COPYRIGHT_POLICY_ja.md)
 
 ### Q4. I don't own Twitter account.
 
 Twitterアカウントがなくてもご参加いただけます。You can participate without Twitter account.     
+Here is the steps to participate.     
 Here is the steps to participate.     
 Here is the steps to participate.
 
@@ -87,14 +90,15 @@ Here is the steps to participate.
 ### Q5. Want to post the project to other sites.
 
 [Q4](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MOVIE_ja.md#q4-twitter%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9)と同じようにサイトに投稿してください。       
-なお、Discordサーバーへの貼り付けはTwitterのURLのみで大丈夫です。
+なお、Discordサーバーへの貼り付けはTwitterのURLのみで大丈夫です。       
+The Url needed to send to discord server will be only Twitter.
 
-### Q9. Can we make collage designs?
+### Q6. Am I allowed to use the materials that I made?
 
-自由に使っていただけます。       
+It's at your disposal.自由に使っていただけます。       
 また、自作の素材に関しては、禁止事項の`映像のほとんどが素材でできた映像の投稿`には含まれないこととします。
 
-### Q9. Can we make collage designs?
+### Q7, Q7, If I'm late within how many hours should I finish my project?
 
 There are no time limits for the late work.
 
@@ -102,12 +106,13 @@ There are no time limits for the late work.
 
 nope :)
 
-### Q9. コラージュデザインは可能ですか？
+### Q9. Can we make collage designs?
 
 コラージュデザインは、禁止事項の`映像のほとんどが素材でできた映像の投稿`には含まれないこととします。     
-ただし、著作権には十分留意してください。
+ただし、著作権には十分留意してください。Please be aware of the copyrights.
 
 ----
 
 改定を提案する場合は、issueを開いてください。If you want to suggest to us to revise this wiki, please open an issue.If you want to suggest to us to revise this wiki, please open an issue.   
+If you don't know how to open an issue, [Here](https://forms.gle/oq32ftHWYsapNHgg7) can you suggest to us.If you want to suggest to us to revise this wiki, please open an issue.If you want to suggest to us to revise this wiki, please open an issue.   
 If you don't know how to open an issue, [Here](https://forms.gle/oq32ftHWYsapNHgg7) can you suggest to us.
