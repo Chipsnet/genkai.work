@@ -15,8 +15,6 @@ Genkai DTM Project is a project to make a composition according to the posted th
 
 限界DTM大会では、遅刻して作曲を行うことができます。      
 For example, things written below are allowed      
-For example, things written below are allowed      
-例えば、以下のことが許可されています。      
 For example, things written below are allowed
 
 - すでに終了した大会のお題で作曲（過去お題の利用）
@@ -48,21 +46,19 @@ Before participating, please check the beginner's guide.
 - Using the sound which is NOT allowed to use
 - Posting the song which is completely unrelated to the theme
 
-その他良識を持って参加をお願いします。     
+その他良識を持って参加をお願いします。その他良識を持って参加をお願いします。     
 [リミックスに関してはこちら](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/DTM_ja.md#q3-%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AF%E6%8A%95%E7%A8%BF%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%AE)を御覧ください。
 
 ## 5. Q&A
 
 ### Q1. Which software can I use?
 
-It doesn't matter what you use.問いません。It doesn't matter what you use.It doesn't matter what you use.      
+It doesn't matter what you use.It doesn't matter what you use.      
 スマホでもPCでも、お好きなツール・ソフトウェアをご利用ください。
 
 ### Q2. Twitterアカウントを持ってないんだけど？
 
-Twitterアカウントがなくてもご参加いただけます。     
-参加方法は以下の通りです。     
-参加方法は以下の通りです。     
+You can participate without Twitter account.     
 参加方法は以下の通りです。     
 参加方法は以下の通りです。
 
@@ -73,10 +69,10 @@ Twitterアカウントがなくてもご参加いただけます。
 
 ### Q3. Can i post my Remix?
 
-Yes. You can post your Remix.     
+Yes. You can post your Remix.Yes. You can post your Remix.     
 However, the original song must be allowed to remix.
 
 ----
 
-If you want to suggest to us to revise this wiki, please open an issue.   
+If you want to suggest to us to revise this wiki, please open an issue.If you want to suggest to us to revise this wiki, please open an issue.   
 If you don't know how to open an issue, [Here](https://forms.gle/oq32ftHWYsapNHgg7) can you suggest to us.
