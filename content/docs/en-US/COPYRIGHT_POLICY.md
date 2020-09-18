@@ -62,5 +62,5 @@
 
 ----
 
-If you want to suggest to us to revise this wiki, please open an issue.If you want to suggest to us to revise this wiki, please open an issue.   
+If you want to suggest to us to revise this wiki, please open an issue.   
 If you don't know how to open an issue, [Here](https://forms.gle/oq32ftHWYsapNHgg7) can you suggest to us.
