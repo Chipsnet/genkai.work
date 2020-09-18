@@ -33,6 +33,12 @@
                         >
                             English
                         </b-navbar-item>
+                        <b-navbar-item
+                            tag="router-link"
+                            :to="switchLocalePath('zh-cn')"
+                        >
+                            中文
+                        </b-navbar-item>
                     </b-navbar-dropdown>
                 </template>
             </b-navbar>
@@ -45,8 +51,10 @@
                     <a href="https://github.com/Chipsnet" target="_blank"
                         >Minato Minami</a
                     >. <br />
-                    This is an Open Source Project. Thanks for all contributers. <br><br>
-                    Project Genkai Managed by TeamProjectGenkai and TeamOpenWorld.
+                    This is an Open Source Project. Thanks for all contributers.
+                    <br /><br />
+                    Project Genkai Managed by TeamProjectGenkai and
+                    TeamOpenWorld.
                 </p>
             </div>
         </footer>

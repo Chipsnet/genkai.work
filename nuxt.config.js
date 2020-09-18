@@ -64,8 +64,9 @@ export default {
     i18n: {
         // 使用する言語の設定
         locales: [
-            { code: "ja", name: "Japanese", iso: "ja_JP", file: "ja.json" },
-            { code: "en", name: "English", iso: "en-US", file: "en.json" },
+            { code: "ja", name: "Japanese", iso: "ja-JP", file: "ja-JP.json" },
+            { code: "en", name: "English", iso: "en-US", file: "en-US.json" },
+            { code: "zh-cn", name: "chinese simplified", iso: "zh-CN", file: "zh-CN.json"}
         ],
         defaultLocale: "ja", // デフォルトの言語
         langDir: "i18n/", // 翻訳ファイルのディレクトリパス
