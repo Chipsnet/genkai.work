@@ -80,5 +80,5 @@ Twitterアカウントがなくてもご参加いただけます。
 
 ----
 
-If you want to suggest to us to revise this wiki, please open an issue.改定を提案する場合は、issueを開いてください。改定を提案する場合は、issueを開いてください。   
-issueの開き方がわからない場合は[こちら](https://forms.gle/oq32ftHWYsapNHgg7)から提案することもできます。
+If you want to suggest to us to revise this wiki, please open an issue.   
+If you don't know how to open an issue, [Here](https://forms.gle/oq32ftHWYsapNHgg7) can you suggest to us.
