@@ -59,7 +59,6 @@ It doesn't matter what you use.It doesn't matter what you use.
 ### Q2. Twitterアカウントを持ってないんだけど？
 
 You can participate without Twitter account.     
-参加方法は以下の通りです。     
 参加方法は以下の通りです。
 
 1. [通常と同じように](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/DTM_ja.md#3-%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95)お題を使用して作曲し、プラットフォームに投稿する。
@@ -69,10 +68,10 @@ You can participate without Twitter account.
 
 ### Q3. Can i post my Remix?
 
-Yes. You can post your Remix.Yes. You can post your Remix.     
+Yes. You can post your Remix.     
 However, the original song must be allowed to remix.
 
 ----
 
-If you want to suggest to us to revise this wiki, please open an issue.If you want to suggest to us to revise this wiki, please open an issue.   
+If you want to suggest to us to revise this wiki, please open an issue.   
 If you don't know how to open an issue, [Here](https://forms.gle/oq32ftHWYsapNHgg7) can you suggest to us.
