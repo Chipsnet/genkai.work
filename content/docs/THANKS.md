@@ -14,6 +14,13 @@
 
 翻訳作業に参加して頂いた方を掲載しています。
 
+- せんぷうき https://twitter.com/suzunano59
+- 猫愛《ねあ》 https://twitter.com/NeAc_
+- Aodaruma https://twitter.com/Aodaruma_
+- Bistalink https://twitter.com/Bistalink
+- ミル https://twitter.com/milu_exe
+- ハクアを博愛する人 https://twitter.com/hakua_loveEQ
+
 ## Donators
 
 運営に寄付をして頂いた方を掲載しています。
