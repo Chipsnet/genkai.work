@@ -1,9 +1,18 @@
+# Thanks
+
+限界大会の運営や翻訳、システム開発に貢献していただいた方を掲載しています。      
+（名前はすべて敬称略）
+
 ## Contributors
 
 運営やシステムに貢献した人を掲載しています。
 
 - 巳波みなと https://minato86.me/
+- ︎︎铃宫 https://twitter.com/szmy_work
 
+## Translator
+
+翻訳作業に参加して頂いた方を掲載しています。
 
 ## Donators
 
