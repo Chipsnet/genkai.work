@@ -86,6 +86,7 @@ Here is the steps to participate.
 ### Q5. Want to post the project to other sites.
 
 [Q4](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MOVIE_ja.md#q4-twitter%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9)と同じようにサイトに投稿してください。       
+なお、Discordサーバーへの貼り付けはTwitterのURLのみで大丈夫です。       
 The Url needed to send to discord server will be only Twitter.
 
 ### Q6. Am I allowed to use the materials that I made?
