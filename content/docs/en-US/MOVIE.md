@@ -76,6 +76,7 @@ For more information, please visit [the Copyright policy](./COPYRIGHT_POLICY_ja.
 ### Q4. I don't own Twitter account.
 
 You can participate without Twitter account.     
+Here is the steps to participate.     
 Here is the steps to participate.
 
 1. [As usual,](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MOVIE_ja.md#3-%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95) create the movie using the sound source.
@@ -86,7 +87,7 @@ Here is the steps to participate.
 ### Q5. Want to post the project to other sites.
 
 [Q4](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/MOVIE_ja.md#q4-twitter%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9)と同じようにサイトに投稿してください。       
-なお、Discordサーバーへの貼り付けはTwitterのURLのみで大丈夫です。       
+The Url needed to send to discord server will be only Twitter.       
 The Url needed to send to discord server will be only Twitter.
 
 ### Q6. Am I allowed to use the materials that I made?
@@ -94,7 +95,7 @@ The Url needed to send to discord server will be only Twitter.
 自由に使っていただけます。       
 Also, for the materials you created will not be against the rules that is written in "prohibitions" where it said you are not allowed to create a movie with many free materials.
 
-### Q7, If I'm late within how many hours should I finish my project?
+### Q9. Can we make collage designs?
 
 There are no time limits for the late work.
 
@@ -108,5 +109,5 @@ For collage designs, you can use any free materials.Please be aware of the copyr
 
 ----
 
-If you want to suggest to us to revise this wiki, please open an issue.   
+If you want to suggest to us to revise this wiki, please open an issue.If you want to suggest to us to revise this wiki, please open an issue.   
 If you don't know how to open an issue, [Here](https://forms.gle/oq32ftHWYsapNHgg7) can you suggest to us.
