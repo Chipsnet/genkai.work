@@ -14,7 +14,7 @@ Genkai DTM Project is a project to make a composition according to the posted th
 ## 2. 遅刻
 
 限界DTM大会では、遅刻して作曲を行うことができます。      
-例えば、以下のことが許可されています。
+For example, things written below are allowed
 
 - すでに終了した大会のお題で作曲（過去お題の利用）
 - 午後12時を超えての投稿
@@ -52,12 +52,12 @@ Before participating, please check the beginner's guide.
 
 ### Q1. Which software can I use?
 
-問いません。      
+It doesn't matter what you use.      
 スマホでもPCでも、お好きなツール・ソフトウェアをご利用ください。
 
 ### Q2. Twitterアカウントを持ってないんだけど？
 
-Twitterアカウントがなくてもご参加いただけます。     
+You can participate without Twitter account.     
 参加方法は以下の通りです。
 
 1. [通常と同じように](https://github.com/Chipsnet/projectgenkai-web/blob/master/doc/DTM_ja.md#3-%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95)お題を使用して作曲し、プラットフォームに投稿する。
@@ -67,10 +67,10 @@ Twitterアカウントがなくてもご参加いただけます。
 
 ### Q3. Can i post my Remix?
 
-投稿できます。     
-ただしCreativeCommonsライセンス等でリミックスが認められている場合に限ります。
+Yes. You can post your Remix.     
+However, the original song must be allowed to remix.
 
 ----
 
-改定を提案する場合は、issueを開いてください。   
-issueの開き方がわからない場合は[こちら](https://forms.gle/oq32ftHWYsapNHgg7)から提案することもできます。
+If you want to suggest to us to revise this wiki, please open an issue.   
+If you don't know how to open an issue, [Here](https://forms.gle/oq32ftHWYsapNHgg7) can you suggest to us.
