@@ -20,6 +20,8 @@
 - Bistalink https://twitter.com/Bistalink
 - ミル https://twitter.com/milu_exe
 - ハクアを博愛する人 https://twitter.com/hakua_loveEQ
+- Tuwbame
+- 208uo
 
 ## Donators
 
