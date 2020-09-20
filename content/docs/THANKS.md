@@ -21,7 +21,7 @@
 - ミル https://twitter.com/milu_exe
 - ハクアを博愛する人 https://twitter.com/hakua_loveEQ
 - Tuwbame https://twitter.com/Tuwbame
-- 208uo
+- 208uo https://twitter.com/208uo
 
 ## Donators
 
