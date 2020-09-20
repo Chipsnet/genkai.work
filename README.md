@@ -1,6 +1,6 @@
 # projectgenkai-web
 
-![](https://github.com/Chipsnet/projectgenkai-web/blob/develop/.github/readme-image.png?raw=true)
+![](./.github/readme-image.png)
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
@@ -8,6 +8,12 @@
 
 限界大会公式リポジトリです。  
 限界大会のルールやサイトのデータを管理していて、自由に修正・提案することができます。
+
+## 目次
+
+-   [ドキュメント（ルール・プライバシーポリシーなど）](./content/docs)
+-   [運営・開発・翻訳貢献者一覧](./content/docs/THANKS.md)
+-   [開発者向けガイド](./content/docs/ja-JP/DEVELOP_GUIDE.md)
 
 ## ディレクトリ構成
 
