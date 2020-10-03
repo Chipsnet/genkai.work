@@ -102,7 +102,7 @@ nope :)
 
 ### Q9. Can we make collage designs?
 
-コラージュデザインは、禁止事項の`映像のほとんどが素材でできた映像の投稿`には含まれないこととします。     
+That design is not included on the prohibitions that `the work is almost all consisted by materials.`     
 For collage designs, you can use any free materials. Please be aware of the copyrights.
 
 ----
