@@ -4,7 +4,7 @@
 
 ## What is this?
 
-限界映像大会は、運営から投稿されたお題楽曲に沿って映像を制作するクリエイター向け企画です。
+It is a event for creators that you make a work by the theme provided by stuff.
 
 ## 1. Event Date
 
