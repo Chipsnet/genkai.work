@@ -4,7 +4,7 @@
 
 ## What is this?
 
-限界映像大会は、運営から投稿されたお題楽曲に沿って映像を制作するクリエイター向け企画です。
+It is a event for creators that you make a work by the theme provided by stuff.
 
 ## 1. Event Date
 
@@ -102,7 +102,7 @@ nope :)
 
 ### Q9. Can we make collage designs?
 
-コラージュデザインは、禁止事項の`映像のほとんどが素材でできた映像の投稿`には含まれないこととします。     
+That design is not included on the prohibitions that `the work is almost all consisted by materials.`     
 For collage designs, you can use any free materials. Please be aware of the copyrights.
 
 ----
