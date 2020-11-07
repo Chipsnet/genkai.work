@@ -13,13 +13,13 @@ Genkai DTM Project is a project to make a composition according to the posted th
 
 ## 2. 遅刻
 
-限界DTM大会では、遅刻して作曲を行うことができます。      
+You can still make and post the song for ended events.      
 For example, things written below are allowed
 
 - すでに終了した大会のお題で作曲（過去お題の利用）
 - 午後12時を超えての投稿
 
-遅刻の期限は無期限で、いつでも過去お題を利用して作曲を行うことができます。
+There is no deadline for this. You can make the song with the past event's theme
 
 なお、遅刻の際は作品投稿時に **「遅刻」という単語を含めて** ください。
 
