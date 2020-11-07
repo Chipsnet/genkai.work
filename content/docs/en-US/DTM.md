@@ -19,9 +19,9 @@ For example, things written below are allowed
 - すでに終了した大会のお題で作曲（過去お題の利用）
 - 午後12時を超えての投稿
 
-There is no deadline for this. You can make the song with the past event's theme
+There is no dead line to post. You can make the songs with the recent event themes whenever you want.
 
-なお、遅刻の際は作品投稿時に **「遅刻」という単語を含めて** ください。
+If you post your work after the event date, PLEASE MAKE SURE **YOUR POST IS INCLUDED THE WORD "遅刻"**.
 
 ## 3. 参加方法
 
