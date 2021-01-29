@@ -38,6 +38,8 @@
 
 [![Image from Gyazo](https://i.gyazo.com/0e78227975ffb72fe6c619d0e1760c4a.png)](https://gyazo.com/0e78227975ffb72fe6c619d0e1760c4a)
 
+- ライセンスがCreative Commons License（ライセンスの中に `CC-` が含まれるもの）に関して、SAという文言が含まれている場合、作品が二次利用される場合があります。詳しくは[こちら](https://mitchie-m.com/blog/music-production/creative-commons-share-alike/)
+
 ## 4. 禁止事項
 
 参加の際は以下の禁止事項に留意してください。
