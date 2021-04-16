@@ -1,19 +1,20 @@
-# 限界大会公式サイト
+# 限界大会公式 HP リポジトリ
 
-[![Image from Gyazo](https://i.gyazo.com/a35a8b2e2b8acbf553aad1545a10caf2.png)](https://gyazo.com/a35a8b2e2b8acbf553aad1545a10caf2)
+> ⚠ このブランチへの Pull Request は推奨されません.  
+> このブランチは開発を終了している旧ウェブサイトの運用上の更新の目的でのみ使用されています.  
+> 誤字修正及び不具合修正のため以外（つまり要素の追加など）は受け付けていません.  
+> 開発中のウェブサイトは`develop`ブランチにて開発しています．  
+> 開発にご協力いただける方はそちらを参考にお願い致します．
 
-![GitHub contributors](https://img.shields.io/github/contributors/chipsnet/projectgenkai-web?style=flat-square)
-![GitHub](https://img.shields.io/github/license/chipsnet/projectgenkai-web?style=flat-square)
+# このリポジトリの内容
 
-## これはなに
+| Dir        | Content                |
+| ---------- | ---------------------- |
+| doc/       | 限界大会のルールや規約 |
+| index.html | 公式 HP のデータ       |
 
-- 限界大会という創作企画の公式サイト及びドキュメントのリポジトリです。
-- 限界大会は、創作を愛するすべての人のための創作企画です。
-- ルールやドキュメント、サイトなどは随時プルリクエストを受け付けており、いつでも修正の提案が可能です。
+# 開発支援
 
-## ディレクトリ
+[PixivFanbox](https://genkai-eizo.fanbox.cc/) から支援するか，ko-fiより開発者を直接支援できます．
 
-|ディレクトリ|内容|
-|-|-|
-|/|index.htmlなどのサイト系|
-|/doc|ルールやドキュメントなど|
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A81VPXD)
