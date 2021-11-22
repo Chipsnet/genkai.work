@@ -1,9 +1,8 @@
 <template>
     <div>
         <pre>
-                {{ list }}
-            </pre
-        >
+            {{ list }}
+        </pre>
     </div>
 </template>
 
