@@ -44,18 +44,9 @@
             </b-navbar>
         </template>
         <Nuxt />
-        <footer class="footer">
-            <div class="content has-text-centered">
-                <p>
-                    This Website developed by
-                    <a href="https://github.com/Chipsnet" target="_blank"
-                        >Minato Minami</a
-                    >. <br />
-                    This is an Open Source Project. Thanks for all contributers.
-                    <br /><br />
-                    Project Genkai Managed by TeamProjectGenkai and
-                    TeamOpenWorld.
-                </p>
+        <footer class="footer mt-6">
+            <div class="container">
+                <p>&copy; Project Genkai</p>
             </div>
         </footer>
     </div>
